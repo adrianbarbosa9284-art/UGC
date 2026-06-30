@@ -63,6 +63,7 @@
   },
   "devDependencies": {
     "@hookform/resolvers": "^3.10.0",
+    "@tailwindcss/typography": "^0.5.15",
     "@tailwindcss/vite": "^4.1.14",
     "@types/node": "^22.0.0",
     "@types/react": "^19.2.0",
